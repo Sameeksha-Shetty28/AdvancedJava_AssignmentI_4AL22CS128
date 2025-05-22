@@ -1,3 +1,4 @@
+// 3c.9 Write a Java Program for Creating a random string of a specified length using user defined function generateRandomString()
 package java_question_3c;
 
 import java.util.Random;
