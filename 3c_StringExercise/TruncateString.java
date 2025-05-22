@@ -1,3 +1,5 @@
+// 3c.7 Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user defined function truncate()
+
 package java_question_3c;
 
 public class TruncateString {
