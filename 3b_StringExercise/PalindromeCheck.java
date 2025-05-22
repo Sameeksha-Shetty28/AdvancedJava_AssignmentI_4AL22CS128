@@ -1,4 +1,5 @@
-package java_question_3b;
+
+// 3b.4 Write a Java Program for Checking if a string reads the same backward as forward (ignoring caseand punctuation) using user defined function isPalindrome():package java_question_3b;
 
 public class PalindromeCheck {
     public static boolean isPalindrome(String str) {
