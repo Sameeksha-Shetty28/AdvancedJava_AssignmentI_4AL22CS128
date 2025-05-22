@@ -4,7 +4,7 @@
 
 [1c.2 ReverseIterate_op]-> [https://github.com/Sameeksha-Shetty28/AdvancedJava_AssignmentI_4AL22CS128/blob/main/1c_Linked%20List/ReverseIterate_op.png]
 
-[1c.3 InsertAtEnd_op]- >[https://github.com/Sameeksha-Shetty28/AdvancedJava_AssignmentI_4AL22CS128/blob/main/1c_Linked%20List/InsertAtEnd_op.png]
+[1c.3 InsertAtEnd_op]-> [https://github.com/Sameeksha-Shetty28/AdvancedJava_AssignmentI_4AL22CS128/blob/main/1c_Linked%20List/InsertAtEnd_op.png]
 
 [1c.4 DisplayWithPosition_op]-> [https://github.com/Sameeksha-Shetty28/AdvancedJava_AssignmentI_4AL22CS128/blob/main/1c_Linked%20List/DisplayWithPosition_op.png]
 
