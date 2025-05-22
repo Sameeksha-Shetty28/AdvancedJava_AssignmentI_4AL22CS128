@@ -1,4 +1,6 @@
-// 3c.6 Write a Java Program for Capitalizing the first letter of each word. using user defined function capitalizeWords()
+// 3c.8 Write a Java Program for Verifying if a string contains only numeric characters using user defined function isNumeric()
+
+
 package java_question_3c;
 
 public class IsNumericCheck {
