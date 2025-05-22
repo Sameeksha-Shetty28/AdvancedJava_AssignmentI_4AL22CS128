@@ -1,0 +1,18 @@
+<form action="setCookie.jsp" method="post">
+    <h3>Set New Cookie</h3>
+    <table>
+        <tr>
+            <td><label>Cookie Name:</label></td>
+            <td><input type="text" name="cookieName" required></td>
+        </tr>
+        <tr>
+            <td><label>Domain:</label></td>
+            <td><input type="text" name="domain" required></td>
+        </tr>
+        <tr>
+            <td><label>Max Age (seconds):</label></td>
+            <td><input type="number" name="maxAge" value="10" required></td>
+        </tr>
+    </table>
+    <input type="submit" value="Add Cookie">
+</form>
