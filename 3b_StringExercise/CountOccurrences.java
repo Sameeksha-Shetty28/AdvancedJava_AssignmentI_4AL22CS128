@@ -1,3 +1,5 @@
+// 3b.2 Write a Java Program for Counting how many times a substring appears in a main string using user defined function countOccurrences()ng Collections.swap(l_list, 0, 2))
+
 package java_question_3b;
 
 public class CountOccurrences {
