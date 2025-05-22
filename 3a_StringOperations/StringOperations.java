@@ -1,3 +1,8 @@
+// 3a. Develop a java program for performing various string operations with different stringhandling functions directed as follows:String Creation and Basic Operations, Length and Character Access, String Comparison, String
+// Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) andstartsWith() and endsWith()
+
+
+
 package java_question_3a;
 
 public class StringOperations {
