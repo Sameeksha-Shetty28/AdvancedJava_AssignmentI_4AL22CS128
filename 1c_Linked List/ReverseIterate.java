@@ -1,3 +1,4 @@
+// 1c.2 Write a Java program to iterate a linked list in reverse order (using objlist.descendingIterator())ser defined function truncate()
 package java_question_1c;
 
 import java.util.*;
